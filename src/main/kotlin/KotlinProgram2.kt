@@ -1,14 +1,13 @@
 fun main(){
     var string1 : String = "this is my String"
     var string2 : String = "this is my String too!"
-    var string3 : String = "this is my String"
     //string character
     println(string1[11])
     //string length
     println(string1.length)
     println(string2.length)
     //string equality
-    println(string1 == string3)
+    println(string1 == string2)
     //string uppercase/lowercase
     println(string2.uppercase())
     //string uppercase/lowercase
