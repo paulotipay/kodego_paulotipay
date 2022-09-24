@@ -22,4 +22,6 @@ fun main(){
     println(string1.substring(6,10))
     //replace
     println(string1.replace("this","that"))
+
+
 }
